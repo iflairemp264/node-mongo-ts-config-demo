@@ -1,7 +1,7 @@
 {
   "name": "node-mongo-ts-config-demo",
   "version": "1.0.0",
-  "description": "",
+  "description": "this is demo app to config node api with typescript & mongodb",
   "main": "server.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -30,5 +30,20 @@
     "@types/express-useragent": "^1.0.0",
     "@types/jsonwebtoken": "^8.5.0",
     "nodemon": "^2.0.7"
-  }
+  },
+  "homepage": "https://github.com/iflairemp264/node-mongo-ts-config-demo",
+  "bugs": {
+    "url": "https://github.com/iflairemp264/node-mongo-ts-config-demo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iflairemp264/node-mongo-ts-config-demo"
+  },
+  "private": false,
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "engineStrict": true,
+  "author": "special-case",
+  "license": "MIT"
 }
